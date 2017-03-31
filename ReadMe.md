@@ -1,3 +1,5 @@
+<h1>Block!</h1>
+
 <img src ="https://github.com/jchoi8163/Block/blob/master/Capture.PNG" width = "250" height = "200">
 <img src ="https://github.com/jchoi8163/Block/blob/master/Capture1.PNG" width = "250" height = "200">
 <img src ="https://github.com/jchoi8163/Block/blob/master/Capture2.PNG" width = "250" height = "200">
@@ -8,6 +10,11 @@
 
 <p>The goal of the game is to survive. Fireballs are following you to burn you. You have to slash the fireball with your sword. </p>
 <p>you can move with A(Left),D(Right) and you can attack with the Left Arrow(Left Attack), and Right Arrow(Right Attack)</p>
-<p>you will need python to play this game so since im a nice kid i will give you this (https://www.python.org/downloads/)<p>
-<p>a video to download python*use this to download python*(https://youtu.be/_GikMdhAhv0)</p>
-<p> This is the Pygame needed for the games *please search pygame using ctrl+f*(http://www.lfd.uci.edu/~gohlke/pythonlibs/)</p>
+
+
+
+<a href="https://www.python.org/downloads/">Python</a>
+
+<a href="https://youtu.be/_GikMdhAhv0">Youtube Vid</a>
+
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/">PyGame File</a>

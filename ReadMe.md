@@ -13,8 +13,8 @@
 
 
 
-<a href="https://www.python.org/downloads/">Python</a>
+<a href="https://www.python.org/downloads/">1.Python Download</a>
 
-<a href="https://youtu.be/_GikMdhAhv0">Youtube Vid</a>
+<a href="https://youtu.be/_GikMdhAhv0">2.Youtube Vid</a>
 
-<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/">PyGame File</a>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/">3.PyGame File</a>
